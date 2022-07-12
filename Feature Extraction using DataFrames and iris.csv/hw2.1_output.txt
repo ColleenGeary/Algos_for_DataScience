@@ -1,0 +1,60 @@
+
+
+***Overall minumum value for each feature type***
+            sepal_length  sepal_width  petal_length  petal_width
+setosa               4.3          NaN           1.0          0.1
+versicolor           NaN          2.0           NaN          NaN
+
+***Overall maximum value for each feature type***
+           sepal_length  sepal_width  petal_length  petal_width
+virginica           7.9          NaN           6.9          2.5
+setosa              NaN          4.4           NaN          NaN
+
+***Minumum value for each flower class arranged by feature***
+            sepal_length  sepal_width  petal_length  petal_width
+flower                                                          
+setosa               4.3          2.3           1.0          0.1
+versicolor           4.9          2.0           3.0          1.0
+virginica            4.9          2.2           4.5          1.4
+
+***Maximum value for each flower class arranged by feature***
+            sepal_length  sepal_width  petal_length  petal_width
+flower                                                          
+setosa               5.8          4.4           1.9          0.6
+versicolor           7.0          3.4           5.1          1.8
+virginica            7.9          3.8           6.9          2.5
+
+***Mean value for each flower class arranged by feature***
+            sepal_length  sepal_width  petal_length  petal_width
+flower                                                          
+setosa             5.006        3.418         1.464        0.244
+versicolor         5.936        2.770         4.260        1.326
+virginica          6.588        2.974         5.552        2.026
+
+***Trimmed Mean value for each flower class arranged by feature***
+            sepal_length  sepal_width  petal_length  petal_width
+flower                                                          
+setosa          5.010526     3.397368      1.494737     0.247368
+versicolor      5.930769     2.776923      4.258974     1.317949
+virginica       6.565116     2.986047      5.532558     2.034884
+
+***Standard Dev for each flower class arranged by feature***
+            sepal_length  sepal_width  petal_length  petal_width
+flower                                                          
+setosa          0.352490     0.381024      0.173511     0.107210
+versicolor      0.516171     0.313798      0.469911     0.197753
+virginica       0.635880     0.322497      0.551895     0.274650
+
+***Skew for each flower class arranged by feature***
+            sepal_length  sepal_width  petal_length  petal_width
+flower                                                          
+setosa          0.120087     0.107053      0.071846     1.197243
+versicolor      0.105378    -0.362845     -0.606508    -0.031180
+virginica       0.118015     0.365949      0.549445    -0.129477
+
+***Kurtosis for each flower class arranged by feature***
+            sepal_length  sepal_width  petal_length  petal_width
+flower                                                          
+setosa         -0.252689     0.889251      1.031626     1.566442
+versicolor     -0.533010    -0.366237      0.047903    -0.410059
+virginica       0.032904     0.706071     -0.153779    -0.602264
